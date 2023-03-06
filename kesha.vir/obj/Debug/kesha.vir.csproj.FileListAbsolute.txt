@@ -1,0 +1,13 @@
+C:\Users\Vlad\source\repos\kesha.vir\kesha.vir\bin\Debug\kesha.vir.exe.config
+C:\Users\Vlad\source\repos\kesha.vir\kesha.vir\bin\Debug\kesha.vir.exe
+C:\Users\Vlad\source\repos\kesha.vir\kesha.vir\bin\Debug\kesha.vir.pdb
+C:\Users\Vlad\source\repos\kesha.vir\kesha.vir\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Vlad\source\repos\kesha.vir\kesha.vir\obj\Debug\kesha.vir.csproj.AssemblyReference.cache
+C:\Users\Vlad\source\repos\kesha.vir\kesha.vir\obj\Debug\kesha.vir.Form1.resources
+C:\Users\Vlad\source\repos\kesha.vir\kesha.vir\obj\Debug\kesha.vir.csproj.GenerateResource.cache
+C:\Users\Vlad\source\repos\kesha.vir\kesha.vir\obj\Debug\kesha.vir.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\kesha.vir\kesha.vir\obj\Debug\kesha.vir.csproj.Fody.CopyLocal.cache
+C:\Users\Vlad\source\repos\kesha.vir\kesha.vir\obj\Debug\kesha.vir.csproj.CopyComplete
+C:\Users\Vlad\source\repos\kesha.vir\kesha.vir\obj\Debug\kesha.vir.exe
+C:\Users\Vlad\source\repos\kesha.vir\kesha.vir\obj\Debug\kesha.vir.pdb
+C:\Users\Vlad\source\repos\kesha.vir\kesha.vir\obj\Debug\vay.Properties.Resources.resources

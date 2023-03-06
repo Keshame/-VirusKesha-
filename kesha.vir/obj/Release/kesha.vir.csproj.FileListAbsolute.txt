@@ -1,0 +1,14 @@
+C:\Users\Vlad\source\repos\kesha.vir\kesha.vir\bin\Release\kesha.vir.exe.config
+C:\Users\Vlad\source\repos\kesha.vir\kesha.vir\bin\Release\kesha.vir.exe
+C:\Users\Vlad\source\repos\kesha.vir\kesha.vir\bin\Release\kesha.vir.pdb
+C:\Users\Vlad\source\repos\kesha.vir\kesha.vir\bin\Release\Microsoft.Win32.TaskScheduler.xml
+C:\Users\Vlad\source\repos\kesha.vir\kesha.vir\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Vlad\source\repos\kesha.vir\kesha.vir\obj\Release\kesha.vir.Form1.resources
+C:\Users\Vlad\source\repos\kesha.vir\kesha.vir\obj\Release\vay.Properties.Resources.resources
+C:\Users\Vlad\source\repos\kesha.vir\kesha.vir\obj\Release\kesha.vir.csproj.GenerateResource.cache
+C:\Users\Vlad\source\repos\kesha.vir\kesha.vir\obj\Release\kesha.vir.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\kesha.vir\kesha.vir\obj\Release\kesha.vir.csproj.Fody.CopyLocal.cache
+C:\Users\Vlad\source\repos\kesha.vir\kesha.vir\obj\Release\kesha.vir.csproj.CopyComplete
+C:\Users\Vlad\source\repos\kesha.vir\kesha.vir\obj\Release\kesha.vir.exe
+C:\Users\Vlad\source\repos\kesha.vir\kesha.vir\obj\Release\kesha.vir.pdb
+C:\Users\Vlad\source\repos\kesha.vir\kesha.vir\obj\Release\kesha.vir.csproj.AssemblyReference.cache
